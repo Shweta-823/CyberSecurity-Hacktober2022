@@ -11,5 +11,5 @@ Network security
 Operational security
 Application security
 End-user education
-Business continuity planning
+Business continuity planning.
 
